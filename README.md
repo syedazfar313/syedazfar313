@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Azfar Mustafa</h1>
-<h3 align="center">A passionate frontend developer from GilGit Pakistan</h3>
+<h3 align="center">A Data Scientist from GilGit Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedazfar313&label=Profile%20views&color=0e75b6&style=flat" alt="syedazfar313" /> </p>
 
