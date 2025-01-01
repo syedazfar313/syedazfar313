@@ -1,26 +1,68 @@
-<h1 align="center">Hi 👋, I'm Syed Azfar Mustafa</h1>
-<h3 align="center">A Data Scientist from GilGit Pakistan</h3>
+# Hi 👋, I'm Syed Azfar Mustafa  
+### A Developer and Cybersecurity Enthusiast from Gilgit, Pakistan 🌍  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedazfar313&label=Profile%20views&color=0e75b6&style=flat" alt="syedazfar313" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedazfar313" alt="syedazfar313" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/azfarmustafa313" target="blank"><img src="https://img.shields.io/twitter/follow/azfarmustafa313?logo=twitter&style=for-the-badge" alt="azfarmustafa313" /></a> </p>
+## 🧑‍💻 **About Me:**  
+I am a passionate developer with expertise in:
+- **Programming Languages:** Java, Python  
+- **Specializations:** Computer Networking and Cybersecurity  
+- **Interests:** AI in Cybersecurity, Cloud Computing, and Ethical Hacking  
 
-- 🌱 I’m currently learning **Data science**
+I constantly learn and work on innovative projects to expand my knowledge and skills. 💡  
+I'm currently enrolled in the **Google Cybersecurity Professional Certificate** program on Coursera.  
 
-- 📝 I regularly write articles on [https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
 
-- 📫 How to reach me **syedazfar027@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/azfarmustafa313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azfarmustafa313" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abbas-0698b125a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbas-0698b125a" height="30" width="40" /></a>
-<a href="https://instagram.com/mountaineer-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mountaineer-shah" height="30" width="40" /></a>
-</p>
+## 🚀 **What I'm Currently Working On:**  
+- Building projects in **Cybersecurity**  
+- Writing articles to share knowledge ([LinkedIn](https://www.linkedin.com/in/syed-azfar-abbas-0698b125a))  
+- Exploring **AI and Machine Learning** integration into Cybersecurity  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedazfar313&" alt="syedazfar313" /></p>
+
+## 💻 **Languages and Tools:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+
+
+
+## 🌟 **Featured Projects:**  
+### [Library Management System](https://github.com/syedazfar313/library-management-system.git)  
+**Description:** A Java-based project for managing library records efficiently.  
+
+### [Digital Image Processing Project](https://github.com/syedazfar313/Digital-image-processing-project.git)  
+**Description:** A project utilizing Python for advanced image processing tasks.  
+
+### [Python Projects](https://github.com/syedazfar313/Python-Projects.git)  
+**Description:** A collection of beginner-to-intermediate level Python scripts and projects.  
+
+### [Java Basic Programming](https://github.com/syedazfar313/Java-Basic-Programming.git)  
+**Description:** Basic Java programs to help beginners understand Java syntax and logic.  
+
+### [syedazfar313](https://github.com/syedazfar313/syedazfar313.git)  
+**Description:** A repository showcasing my GitHub profile and README customization.  
+
+
+
+
+## 📝 **Contributions and Activity**  
+- **Total Contributions:** 62 🎉  
+- **Longest Streak:** 8 days 🔥  
+- Active in learning, coding, and contributing to open-source.  
+
+
+
+
+## 📫 **Connect with Me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-azfar-abbas-0698b125a)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](#)  
+
+📧 Email: syedazfar072@gmail.com  
+🌍 Location: Gilgit-Baltistan, Pakistan  
+
+
+
+
+## ⚡ **Fun Fact:**  
+_"The best way to learn Cybersecurity is by breaking things... and then fixing them."_  
